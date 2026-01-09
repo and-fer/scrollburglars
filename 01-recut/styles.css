@@ -1,0 +1,7 @@
+body {
+}
+
+.main-img {
+  border: solid red;
+  max-width: 300px !important;
+}
